@@ -10,10 +10,10 @@ Next we have the Annealing step. This step is actually a three step process that
 The Final Elongation is the step at which all the genetic material reanneals with the opposing strnds for the final time and is rewound back into the double helix form. This can be due to the limiting fact of the amount of reagents that are still available in the mix matrix for the PCR.  
 The reagents involved are as follows and they are in their simpliest form as they do vary greatly depending on the PCR machine thaqt you have access to and the typoe of genetic information that you are after.
 * dNucleotides- these are the free nucleotide bases that are used in the making of the new DNA sequence.  
-* Forward and Reverse Primers- these start at opposing ends of the DNA Sequence, the three prime and the five prime ends, they are then used to "flag"
-* Buffer agent
-* Taq Polymerase
-* PCR grade water
+* Forward and Reverse Primers- these start at opposing ends of the DNA Sequence, the three prime and the five prime ends, they are then used to "flag" the areas to which the free nucleotide bases are needed to be added.  
+* Buffer agent- the purpose of the buffere agent is to optimise the the pH conditions required for PCR
+* Taq Polymerase- is a part of the annealing process that makes the bases join in the sequence.
+* PCR grade water- is used to "bulk-up" the master mix volume, to allow for easier handling and to increase the number of samples that be dealt with at anyone time.  
 
 ## PCR Stages - Diagram
 ![PCR - https://en.wikipedia.org/wiki/File:Polymerase_chain_reaction.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Polymerase_chain_reaction.svg/800px-Polymerase_chain_reaction.svg.png)
