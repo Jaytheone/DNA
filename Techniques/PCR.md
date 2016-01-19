@@ -2,7 +2,7 @@ In Forensic DNA analysis there are only thirteen loci of the human genome that w
 PCR is used mostly for the amplification of genetic material and for the initial "cutting" of the genetic material before analysis. PCR can be split into three different subsections, Intial Denaturation, Annealing, Extension.
 The first step 
 
-![PCR](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Polymerase_chain_reaction.svg/800px-Polymerase_chain_reaction.svg.png)
+![PCR - https://en.wikipedia.org/wiki/File:Polymerase_chain_reaction.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Polymerase_chain_reaction.svg/800px-Polymerase_chain_reaction.svg.png)
 
 
 
