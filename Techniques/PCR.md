@@ -1,7 +1,1 @@
-## PCR Techniques
-
-* bulletpoint 1  
-* bulletpoint 2  
-
-1. Point 1  
-2. Point 2  
+In Forensic DNA analysis there are only thirteen sections of the human genome that we need to concern ourselves with. This is due to the fact that these sections are used for identification of an idividual. From the samples that we have previously collected we must first undergo an extraction process.
