@@ -20,3 +20,14 @@ The reagents involved are as follows and they are in their simpliest form as the
 
 PCR video site link http://study.com/academy/lesson/pcr-synthesizing-dna-using-polymerase-chain-reaction.html  
 
+The mechanism behind the elongation step is quite straightforward. The mechanism uses a primer, which a section of genetic code that can vary in lenght but is a match for a section of the DNA code that is to be amplified or cut, which then moves along the DNA strand from either the thre prime, 3', or the five prime,5', end. The difference between the three and five prime ends is simpley just the direction in which the primer moves, this typically from the 3' to the 5'.  
+During any PCR analysis there are three reagents that are required. They may vary depending on the species that are being analysed but they are all used. They are Topoisomerase, Helicase and Polymerase.  
+Topoisomerase- This enzyme is important in that it is used to uncoil the DNA into the strands. More specificaly it " alters the supercoil form of the DNA molecule."
+Helicase- The purpose behind the helicase enzyme is that breaks the bonds that hold the DNA strands together, i.e it breaks the hydrogen bonds between the nucleotides. Essentially it turns the DNA helix into two single DNA strands
+Polymerase- This enzyme is used to bind the new DNA strand to the old, using the free nucletodies that are found in the solution that we made for the amplification of the DNA, The dNusleotides. 
+Restriction Enzymes- The purpose of the restriction enzymes is to "cut" the DNA at a specified point. A restriction enzyme is a length of genetic code that, when it finds a suitable match, wil cut the DNA chain at that point. There are diferent types of restriction enzymes but they can found using the link below.  
+For futher information on any of the enzymes that were mentioned above please follow the links below:
+Helicase: Nature Education. Scitable. [Online] Available at: http://www.nature.com/scitable/definition/helicase-307 
+Topoisomerase: Protein Data Bank. (2006). DNA Topoisomerase. [Online] Available at: https://www.ebi.ac.uk/interpro/potm/2006_1/Page1.htm  
+Polymerase: News Medical. What is DNA Polymerase. [Online] Available at:http://www.news-medical.net/life-sciences/What-is-DNA-Polymerase.aspx
+Restriction Enzymes: Restriction Enzymes. (25/APril/2014). [Online] Available at:http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/R/RestrictionEnzymes.html
