@@ -13,7 +13,7 @@ The reagents involved are as follows and they are in their simpliest form as the
 * Forward and Reverse Primers- these start at opposing ends of the DNA Sequence, the three prime and the five prime ends, they are then used to "flag" the areas to which the free nucleotide bases are needed to be added.  
 * Buffer agent- the purpose of the buffere agent is to optimise the the pH conditions required for PCR
 * Taq Polymerase- is a part of the annealing process that makes the bases join in the sequence.
-* PCR grade water- is used to "bulk-up" the master mix volume, to allow for easier handling and to increase the number of samples that be dealt with at anyone time.  
+* PCR grade water- is used to "bulk-up" the master mix volume, to allow for easier handling and to increase the number of samples that can be dealt with at anyone time.  
 
 ## PCR Stages - Diagram
 ![PCR - https://en.wikipedia.org/wiki/File:Polymerase_chain_reaction.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Polymerase_chain_reaction.svg/800px-Polymerase_chain_reaction.svg.png)
