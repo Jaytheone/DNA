@@ -15,12 +15,15 @@ Buccal (cheek tissue, or "mouth") swabs are one of the least invasive methods of
 
 ## DNA Extraction from Hair Root-Tips
 ### these could all be broken out into sub-articles/pages if they get too long
+#### should check last years lab manual
 
 ## DNA Extraction from Blood (liquid)
 ### these could all be broken out into sub-articles/pages if they get too long
+#### should check last years lab manual
 
 ## DNA Extraction from Blood (dried)
 ### these could all be broken out into sub-articles/pages if they get too long
+#### should check last years lab manual
 
 ## DNA Extraction from Tissue Samples
 ### these could all be broken out into sub-articles/pages if they get too long
