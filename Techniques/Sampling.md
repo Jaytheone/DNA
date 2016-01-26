@@ -4,6 +4,7 @@ In this section we will discuss the methods of obtaining samples. The main that 
 Hair Samples.  
 When we talk about hair samples, in terms of DNA, we are only interested in the Hair Follicle found at the end. In appearance it looks like a "bulb", see the image below, it is in here that the DNA information is contained. Typically when we wish to take hair samples we would need at least ten strands of hair, that have the follicle attached.  
 https://commons.wikimedia.org/wiki/File:Hair_follicle-en.svg
+
 The first thing that must be done is that we must first, of course, get permission to take the sample.  
 Sample Preparation  
 Unfortunately we must first prepare the hair sample for the PCR amplification step. This is done by a process known as extraction. 
