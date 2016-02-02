@@ -29,6 +29,8 @@ Helicase- The purpose behind the helicase enzyme is that breaks the bonds that h
 Polymerase- This enzyme is used to bind the new DNA strand to the old, using the free nucletodies that are found in the solution that we made for the amplification of the DNA, The dNucleotides.  
 Restriction Enzymes- The purpose of the restriction enzymes is to "cut" the DNA at a specified point. A restriction enzyme is a length of genetic code that, when it finds a suitable match, wil cut the DNA chain at that point. There are diferent types of restriction enzymes but they can found using the link below.  
 
+Another thing that must be addressed is the Quantification of DNA. In this instance a device referred to as a "nanospectrometer" is used. A nanospectrometer operates in much the same way as any other spectrometer in that it uses a section of wavelenght energy to acertain what is present in a same that it used on. this method is very quick and reliable, in DNA a nanospec is used at two wavelenghts that we know to show DNA is present. these wavelenghts are at 260 and 280 nm (nanometers). When the results of these two areas of analysis are looked at we can tell how pure and how concentrated the DNA sample is. There is a range of values for the purity and the concentration at which they are acceptable.
+
 For futher information on any of the enzymes that were mentioned above please follow the links below: 
 
 Helicase: Nature Education. Scitable. [Online] Available at: http://www.nature.com/scitable/definition/helicase-307 
