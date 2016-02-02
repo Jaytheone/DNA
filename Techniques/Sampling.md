@@ -8,6 +8,8 @@ https://commons.wikimedia.org/wiki/File:Hair_follicle-en.svg
 
 The next sample type is a Buccal or Oral swab. 
 This type of sample is slightly more invasive than the afore mentioned Hair follicle, however it is also much easier to obtain than the hair sample as only one swab sample is, generally, required. For this method a swab or cotton bud is inserted into the buccal cavity and is lightly rubbed against the check. This transfers some of the cells on the check to the swab which can then be removed through the extraction process.  
+http://www.feministmidwife.com/2012/09/27/self-swab/#.VrCSK7KLTcs  
+http://www.feministmidwife.com/wp-content/uploads/2012/09/SelfCollectedSwabs.png  
 
 The first thing that must be done is that we must, of course, get permission to take the sample.  
 Sample Preparation  
