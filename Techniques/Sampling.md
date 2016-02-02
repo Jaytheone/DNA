@@ -5,6 +5,9 @@ Hair Samples.
 When we talk about hair samples, in terms of DNA, we are only interested in the Hair Follicle found at the end. In appearance it looks like a "bulb", see the image below, it is in here that the DNA information is contained. Typically when we wish to take hair samples we would need at least ten strands of hair, that have the follicle attached.  
 https://commons.wikimedia.org/wiki/File:Hair_follicle-en.svg
 
+The next sample type is a Buccal or Oral swab. 
+This type of sample is slightly more invasive than the afore mentioned Hair follicle, however it is also much easier to obtain than the hair sample as only one swab sample is, generally, required. For this method a swab or cotton bud is inserted into the buccal cavity and is lightly rubbed against the check. This transfers some of the cells on the check to the swab which can then be removed through the extraction process.  
+
 The first thing that must be done is that we must, of course, get permission to take the sample.  
 Sample Preparation  
 Unfortunately we must first prepare the hair sample for the PCR amplification step. This is done by a process known as extraction. 
