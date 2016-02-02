@@ -1,4 +1,4 @@
-Sampling methods
+Sampling methods By James Mc Carron
 
 In this section we will discuss the methods of obtaining samples. The main that we will be focusing on are Hair and Buccal, or Saliva, samples. These samples are used when we wish to compare samples that were collected at a crime scene with those that were provided by the suspect(s).  
 
