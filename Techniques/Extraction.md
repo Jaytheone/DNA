@@ -26,4 +26,4 @@ Buccal (cheek tissue, or "mouth") swabs are one of the least invasive methods of
 #### should check last years lab manual
 
 ## DNA Extraction from Tissue Samples
-### these could all be broken out into sub-articles/pages if they get too long
+From the tissue samples that we can look one of the most useful is the Mitochondrial DNA. The reason that the mitochondria is of such importance is due to the fact that it is much hard to degrade this type of genetical material and it is a direct match to the maternal family, i.e all direct relatives of your mother, your mothers sisters, the mother of your mother and your brothers and sisters. For this reason we can use mitochondrial DNA to narrow down a feild of search, in a genetic sense, and this is also useful for identifying the next of kin in the case of a deceased family member.
