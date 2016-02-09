@@ -12,6 +12,7 @@ http://www.feministmidwife.com/2012/09/27/self-swab/#.VrCSK7KLTcs
 http://www.feministmidwife.com/wp-content/uploads/2012/09/SelfCollectedSwabs.png  
 
 The first thing that must be done is that we must, of course, get permission to take the sample.  
+
 Sample Preparation  
 Unfortunately we must first prepare the hair sample for the PCR amplification step. This is done by a process known as extraction. 
 During extraction the DNA of the hair samples are removed and concentrated before the amplification. While this method concentrates the DNA it is still in too small a quantity for us to analysis with any degree of accuracy. The Extraction that we use is very simple and straightforward. There are many different suppliers of DNA extraction kits, however the vast majority all follow the same basic format.  
