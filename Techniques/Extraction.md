@@ -14,8 +14,7 @@ Buccal (cheek tissue, or "mouth") swabs are one of the least invasive methods of
 5. 
 
 ## DNA Extraction from Hair Root-Tips
-### these could all be broken out into sub-articles/pages if they get too long
-#### should check last years lab manual
+Hair samples are the next in the list of invasive testing methods. This method is less invasive than the afore mentioned buccal swab but as there is some degree of pain this method is left for cases where the buccal swabs can not be taken. The process for taking a DNA sample via hair is very simple. At minimum ten hair FOLLICLES must be obtained, see below for an image. Of these hair follicles we only need the follicle itself so we remove the hair above two centimeters of the follicle. After this, the steps in the extraction process will expose the DNA and allow for the amplification and quantification, (using the nanospectrometer)
 
 ## DNA Extraction from Blood (liquid)
 ### these could all be broken out into sub-articles/pages if they get too long
